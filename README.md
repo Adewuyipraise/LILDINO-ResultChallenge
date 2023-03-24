@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git HUb @Adewuyipraise](https://github.com/Adewuyipraise/LILDINO-ResultChallenge)
+- Live Site URL: [live site URL here](https://adewuyipraise.github.io/LILDINO-ResultChallenge/)
 
 ## My process
 
